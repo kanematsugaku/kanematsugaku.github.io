@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+（頭に思い浮かんだまま書いたため、記述の形式や口調が統一されていないと思いますが、ご容赦ください。）
 
-You can use the [editor on GitHub](https://github.com/kanematsugaku/kanematsugaku.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 卒業制作へのジョインのお伺い
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ピッチでもお伝えした通り、卒業制作において、私は自身のオリジナルプロダクトを作るのではなく、皆さんのプロダクト開発にジョインさせていただきたいと考えています。つきましては、以降をご参照のうえ、ご検討・お声がけいただけますと幸いです。
 
-### Markdown
+__ **なぜ自分のプロダクトを作らないのか？** __
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+私の今の気持ちとして、技術の理解をさらに深めたいという思いは強くある一方、これが作りたいという明確なプロダクト像は持っていません。卒業制作のためにと無理矢理にオリジナルプロダクトを捻り出すよりは、作りたいプロダクト像を持っている方と一緒に開発を進めた方が良いと考え、このようなお声がけをさせていただきました。
 
-```markdown
-Syntax highlighted code block
+仮に私自身のオリジナルプロダクトを作るとした場合、作りたい具体像としては、エンジニアの開発生産性を向上させるようなCI/CDの方向性を持ったサービスを作りたいと考えました。しかしながら、実際に開発現場での実務経験を積んでからの方が、現場の具体的な課題感を掴むことができると感じており、今の段階で実用に供したサービスを作ることは難しいと感じています。
 
-# Header 1
-## Header 2
-### Header 3
+なお、今回どなたかにジョインさせていただくことができた場合、そのチーム内の開発生産性を向上させるようなプチCI/CDの仕組みを作ることが自身の勉強にもつながると感じており、そういった観点でも、卒業制作は１人ではなくチームで取り組みたいと考えています。
 
-- Bulleted
-- List
+また正直なところ、私は「“自分の”プロダクト」というものへの関心はそれほど強くありません。オープンなエンジニアカルチャーが好きだということもありますが、自分のオリジナルソフトウェアを作らずとも、例えばオープンソースソフトウェアの開発に参加する形でも十分だなと感じています。（いつかLinuxカーネルの開発に参加したいというのが野望です。）
 
-1. Numbered
-2. List
+長々と書きましたが、一言でまとめると、結局のところ今現在は明確なプロダクト像を持っていないから、ということに尽きます。
 
-**Bold** and _Italic_ and `Code` text
+## 私ができること・得意なこと・不得意なこと
 
-[Link](url) and ![Image](src)
-```
+基本的どんなことでもやりますし、やりたいです。システムの全体像を理解したいという思いがあり、一分野に固執せず幅広くやりたいと考えているためです。しかしながら、今の自分の能力を鑑みると、お声がけいただいてもお力には慣れそうにないという分野もあります。以下に私ができることを整理します。（以下、偉そうに書き連ねていますが、結局すべてが素人レベルです。）
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 1. 触ったことのある言語／フレームワーク
+- バックエンド
+  - Javascript(Node.js) / Express.js
+  - Ruby / Ruby on Rails
+  - PHP / Laravel
+  - Python / Django
+  - C
+- フロントエンド
+  - Vue.js
 
-### Jekyll Themes
+### 2. 比較的得意なこと
+- サーバへのデプロイなどの環境構築系
+- データベースの設計
+- ロジックを考えること
+- バックエンド系の開発
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kanematsugaku/kanematsugaku.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 3. 不得意なこと
+- フロントエンド系の開発
+  - 特にスタイル(CSS)周り
 
-### Support or Contact
+不得意の理由についてですが、例えば1時間あったとき、バックエンドの開発ならば10個の作業が完了できるとした場合、フロントエンドでは5個の作業しか完了できません。ただし、不得意ではありますが、やりたくないということではありません。開発を通じてフロントの苦手意識を改善したいと思っています。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 4. お役に立てそうにないこと
+- データサイエンス関連機能の開発
+- ブロックチェーン関連機能の開発
+- Unityでの開発
+- グッドなデザインを考えること
+  - 設計という意味でのデザインではなく、スタイル的なデザインの方です(デザインセンス皆無なので...)。
+
+誤解しないでいただきたいのは、データサイエンスを利用したアプリやUnityを利用したアプリの開発全体に協力できそうにないということではありません。例えばUnityを例に取ると、Unityのグラフィックス的な部分はお力になれそうにありませんが、データベースからデータを取得するような部分であれば、お役にたてるのではと思います（Unity詳しくないので、とんちんかんなこと言っていても見逃してください）。
